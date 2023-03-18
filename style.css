@@ -1,0 +1,8 @@
+* {
+  width: 100%;
+}
+
+#para2 {
+  display: flex;
+  flex-direction: row;
+}
